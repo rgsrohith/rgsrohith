@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is G Rohith... and I'm a quick learner..., from chennai....</h2>
+<h2 align="left">Hi 👋! My name is Rohith Ganeshan and I'm a 3D Artist, Developer & IoT Innovator from India.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohith-ganeshan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohith-ganeshan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -44,6 +44,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 📄 My Resume
+<div align="center">
+  <a href="https://github.com/rohith-ganeshan/rohith-ganeshan/blob/main/rohith%20resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View%20My%20Resume-0077B5?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Badge"/>
+  </a>
+  <br><br>
+  <embed src="https://github.com/rohith-ganeshan/rohith-ganeshan/raw/main/rohith%20resume.pdf" width="800px" height="600px" type="application/pdf">
+</div>
 
 ###
