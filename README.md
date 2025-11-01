@@ -13,7 +13,7 @@
 
 ### About Me
 
-Actively learning about **advanced hardware technologies** and **astrophysics**, with a keen interest in **VLSI design** and the study of **black holes**. I'm driven by curiosity and a passion for discovery, continually expanding knowledge through research, experiments, and hands-on practice. Dedicated to building a strong foundation in both theoretical concepts and practical applications.
+I am an enthusiast beginner interested in learning **VLSI** and **Semiconductors**. I love to explore and learn new software and skills, continually expanding my knowledge through hands-on practice. Currently, I am also actively learning about **advanced hardware technologies** and its practical applications.
 
 ---
 
