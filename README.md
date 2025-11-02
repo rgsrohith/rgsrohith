@@ -9,7 +9,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="right">
+  <a href="https://www.linkedin.com/in/rohith-ganeshan-6050a8301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/Hire%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="Hire Me button linking to LinkedIn" />
+  </a>
+</div>
 
 ### About Me
 
@@ -84,4 +88,8 @@ I am an enthusiast beginner interested in learning **VLSI** and **Semiconductors
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <a href="https://github.com/maurodesouza?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Work-100000?style=for-the-badge&logo=github&logoColor=white" alt="View My Work button linking to GitHub" />
+  </a>
+</p>
