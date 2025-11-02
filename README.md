@@ -89,7 +89,7 @@ I am an enthusiast beginner interested in learning **VLSI** and **Semiconductors
 <br clear="both">
 
 <p align="center">
-  <a href="./rohith_resume.pdf" target="_blank">
+  <a href="./rohith resume.pdf.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-D14836?style=for-the-badge&logo=adobe&logoColor=white" alt="View Resume button, opens PDF in new tab" />
   </a>
 </p>
