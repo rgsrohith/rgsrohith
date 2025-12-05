@@ -3,16 +3,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rgsrohith&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rgsrohith&locale=en&hide_title=false&layout=compact&card_width=" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/rohith-ganeshan-6050a8301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/Hire%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="Hire Me button linking to LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/rohith-ganeshan-6050a8301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/Hire%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="Hire Me button linking to LinkedIn" />
+  </a>
 </div>
 
 ### About Me
@@ -89,7 +89,7 @@ I am an enthusiast beginner interested in learning **VLSI** and **Semiconductors
 <br clear="both">
 
 <p align="center">
-  <a href="./rohith resume.pdf.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-D14836?style=for-the-badge&logo=adobe&logoColor=white" alt="View Resume button, opens PDF in new tab" />
-  </a>
+  <a href="./rohith resume.pdf.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-D14836?style=for-the-badge&logo=adobe&logoColor=white" alt="View Resume button, opens PDF in new tab" />
+  </a>
 </p>
