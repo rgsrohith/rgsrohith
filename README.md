@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rgsrohith&show_icons=true&theme=default&locale=en&no_cache=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rgsrohith&layout=compact&locale=en&no_cache=true" height="150" alt="Top Languages" />
-</div>
 
 ###
 
