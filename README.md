@@ -2,13 +2,10 @@
 
 ###
 
-
-###
-
 <div align="right">
-  <a href="https://www.linkedin.com/in/rohith-ganeshan-6050a8301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/Hire%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="Hire Me button linking to LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/rohith-ganeshan-6050a8301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/Hire%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="Hire Me button linking to LinkedIn" />
+  </a>
 </div>
 
 ### About Me
@@ -20,7 +17,7 @@ I am an enthusiast beginner interested in learning **VLSI** and **Semiconductors
 ### Education
 
 * **B.Tech in Electronics and Communication Engineering** (2023 - 2027)
-    * **KCG COLLEGE OF TECHNOLOGY**
+    * **KCG COLLEGE OF TECHNOLOGY**
 
 ---
 
@@ -42,28 +39,30 @@ I am an enthusiast beginner interested in learning **VLSI** and **Semiconductors
 ### Internship Experience
 
 * **Embedded Programing Intern** at **SystemTron** (Dec 2024 - Jan 2025)
-    * Completed a one-month internship focusing on Embedded programming.
+    * Completed a one-month internship focusing on Embedded programming.
 * **Intern** at **CodeBind Technologies** (December 2024)
-    * Exhibited an enthusiastic attitude for learning, and was recognized as industrious and dependable.
+    * Exhibited an enthusiastic attitude for learning, and was recognized as industrious and dependable.
 
 ---
 
 ### My Tech Stack (Embedded, 3D Design & Web)
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="Blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="Blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo"  />
+  <img width="12" />
+  <a href="https://www.hackerrank.com/profile/rgsrohith_be"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" alt="Hackerrank badge" /></a>
 </div>
 
 ---
@@ -71,13 +70,16 @@ I am an enthusiast beginner interested in learning **VLSI** and **Semiconductors
 ### Connect With Me
 
 <div align="left">
-  <a href="https://www.instagram.com/g_rohith_2005?igsh=MTVkcW42c3EydG5lag==">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  <a href="https://www.linkedin.com/in/rohith-ganeshan-6050a8301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
+  <a href="https://www.hackerrank.com/profile/rgsrohith_be">
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" alt="Hackerrank logo" />
+  </a>
+  <a href="https://www.instagram.com/g_rohith_2005?igsh=MTVkcW42c3EydG5lag==">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  <a href="https://www.linkedin.com/in/rohith-ganeshan-6050a8301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
 </div>
 
 ###
@@ -85,7 +87,7 @@ I am an enthusiast beginner interested in learning **VLSI** and **Semiconductors
 <br clear="both">
 
 <p align="center">
-  <a href="./rohith resume.pdf.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-D14836?style=for-the-badge&logo=adobe&logoColor=white" alt="View Resume button, opens PDF in new tab" />
-  </a>
+  <a href="./rohith resume.pdf.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-D14836?style=for-the-badge&logo=adobe&logoColor=white" alt="View Resume button, opens PDF in new tab" />
+  </a>
 </p>
