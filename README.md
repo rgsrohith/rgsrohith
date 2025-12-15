@@ -69,14 +69,11 @@ I am an enthusiast beginner interested in learning **VLSI** and **Semiconductors
 
 ### Connect With Me
 
-<div align="left">
-  <a href="https://www.hackerrank.com/profile/rgsrohith_be">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" alt="Hackerrank logo" />
-  </a>
   <a href="https://www.instagram.com/g_rohith_2005?igsh=MTVkcW42c3EydG5lag==">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
+ <a href="mailto:rgsrohith.be@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+</a>
   <a href="https://www.linkedin.com/in/rohith-ganeshan-6050a8301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
