@@ -47,6 +47,8 @@ I am an enthusiast beginner interested in learning **VLSI** and **Semiconductors
 
 ### My Tech Stack (Embedded, 3D Design & Web)
 
+### My Tech Stack (Embedded, 3D Design & Web)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo"  />
   <img width="12" />
@@ -63,6 +65,8 @@ I am an enthusiast beginner interested in learning **VLSI** and **Semiconductors
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo"  />
   <img width="12" />
   <a href="https://www.hackerrank.com/profile/rgsrohith_be"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" alt="Hackerrank badge" /></a>
+  <img width="12" />
+  <a href="https://leetcode.com/u/2OENdLwTeH/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="30" alt="LeetCode badge" /></a>
 </div>
 
 ---
